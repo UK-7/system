@@ -75,8 +75,8 @@ nnoremap <leader>w :w<CR>
 nnoremap <leader>q :q<CR>
 nnoremap <leader>Q :q!<CR>
 
-" remap <ESC> to jk
-inoremap jk <ESC>
+" remap <ESC> to kj
+inoremap kj <ESC>
 
 " Toggle Nerd Tree exploerer
 map <F2> :NERDTreeToggle<cr>
